@@ -23,4 +23,5 @@ public class TodoEntity {
     private String taskDescription;
     private Date dueDate;
     private boolean completed;
+
 }
